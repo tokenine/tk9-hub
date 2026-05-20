@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "workspace": {
+    "name": "tk9-hub",
+    "createdAt": 0,
+    "preset": "starter"
+  },
+  "authorizedRoots": []
+}
