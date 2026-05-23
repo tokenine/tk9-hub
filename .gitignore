@@ -4,3 +4,7 @@ node_modules/
 # Telegram skill local secrets/state
 skills/telegram/.skill.config
 skills/telegram/telegram-chats.json
+
+# Payso wallet local secrets
+paysonow-auth.txt
+paysonow-pin.txt

@@ -1,7 +1,16 @@
 {
   "permissions": {
     "allow": [
-      "Bash(git init)"
+      "Bash(git init)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git branch *)",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "Read(//Users/dome/.config/paysonow/**)",
+      "Bash(tr *)",
+      "Bash(do *)",
+      "Bash(done)"
     ]
   },
   "$version": 4
